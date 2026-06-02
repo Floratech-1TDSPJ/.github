@@ -4,7 +4,6 @@
 
 <img src="https://github.com/user-attachments/assets/floratech-logo" width="140" alt="Floratech Logo"/>
 
-> *Caso o logo não carregue, adicione a imagem do logo no repositório e atualize o link acima.*
 
 <br/>
 
@@ -149,27 +148,11 @@ O produtor cadastra sua propriedade informando o estado. O sistema busca os dado
 
 | 👤 Nome | 🪪 RM | 🔗 GitHub | 💼 LinkedIn |
 |:---|:---:|:---:|:---:|
-| João Vitor de Cruz Lima | `571277` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com) |
-| Matheus Ferreira Antônio | `570933` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com) |
-| Sophia Silveira dos Santos | `571932` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com) |
-| Renato da Silva Tenorio | `572928` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com) |
-| Renato Ruiz Ferreira Fonseca Scolamieri | `568667` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com) |
-
-</div>
-
-<br/>
-
-> ⚠️ Atualize os links de GitHub e LinkedIn de cada integrante.
-
----
-
-## 📊 Estatísticas
-
-<br/>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulPass-1TDSPJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/SoulPass-1TDSPJ)
+| João Vitor de Cruz Lima | `571277` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/JoaoVitor-2209) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-vitor-cruz-de-lima-ba4862219) |
+| Matheus Ferreira Antônio | `570933` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/matheusfa08) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matheus-ferreira-ant%C3%B4nio-592138365) |
+| Sophia Silveira dos Santos | `571932` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/SophiaS4nt) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sophia-silveira-9325493a1) |
+| Renato da Silva Tenorio | `572928` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/EUGP20) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/renato-silvagp) |
+| Renato Ruiz Ferreira Fonseca Scolamieri | `568667` | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Renatoruiz1) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/renato-ruiz-ferreira-fonseca-scolamieri-32698840b) |
 
 </div>
 
