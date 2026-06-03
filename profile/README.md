@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/floratech-logo" width="140" alt="Floratech Logo"/>
+<img src="https://github.com/Floratech-1TDSPJ.png" width="100" style="border-radius:50%">
 
 
 <br/>
