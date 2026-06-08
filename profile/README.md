@@ -126,17 +126,16 @@ O produtor cadastra sua propriedade informando o estado. O sistema busca os dado
 
 | Repositório | Descrição | Status |
 |:---:|:---|:---:|
-| [🌐 **floratech-front**](https://github.com/SoulPass-1TDSPJ) | Site institucional — HTML, CSS e JavaScript | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
-| [☕ **floratech-java**](https://github.com/SoulPass-1TDSPJ) | Implementação DDD em Java | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
-| [🐍 **floratech-python**](https://github.com/SoulPass-1TDSPJ) | Sistema em Python com menu interativo | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
+| [🌐 **floratech-front**](https://github.com/Floratech-1TDSPJ/front-floratech) | Site institucional — HTML, CSS e JavaScript | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
+| [☕ **floratech-java**](https://github.com/Floratech-1TDSPJ/java-floratech) | Implementação DDD em Java | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
+| [🐍 **floratech-python**](https://github.com/Floratech-1TDSPJ/gs-python) | Sistema em Python com menu interativo | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
 | [🗄️ **floratech-database**](https://github.com/SoulPass-1TDSPJ) | Modelagem relacional (MER + Modelo Lógico) | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
-| [🤖 **floratech-chatbot**](https://github.com/SoulPass-1TDSPJ) | Chatbot via Watson + Node-RED + Telegram | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
+| [🤖 **floratech-chatbot**](https://github.com/Floratech-1TDSPJ/chatbot-floratech) | Chatbot via Watson + Node-RED + Telegram | ![Em Dev](https://img.shields.io/badge/Em_Dev-FFA000?style=flat-square) |
 
 </div>
 
 <br/>
 
-> 🔗 Atualize os links dos repositórios acima conforme forem criados.
 
 ---
 
